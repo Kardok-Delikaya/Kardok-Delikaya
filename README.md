@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Ömer Faruk Yerlikaya.
-- 👀 I’m interested in Game Devoloping. You can watch some of mechanics I coded: https://www.youtube.com/@kardokdelikaya9570/videos
-- 🌱 I’m currently learning Kotlin.
+- 👋 Merhaba, benim adım Ömer Faruk Yerlikaya.
+- 👀 Oyun Programlama ile ilgileniyorum. Kodladığım bazı mekanikleri görmek isterseniz youtube kanalıma videolarını attım: https://www.youtube.com/@kardokdelikaya9570/videos
